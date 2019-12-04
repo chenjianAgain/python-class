@@ -6,7 +6,4 @@
 - ```jupyter labextension install @jupyter-widgets/jupyterlab-manager``` jupyter install
 - ```jupyter labextension install jupyter-matplotlib``` jupyter install 
 # test
-conda install -c conda-forge ipympl
-conda install nodejs
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install jupyter-matplotlib
+https://jupyterlab.readthedocs.io/en/stable/
